@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:22
+-keep class cn.even8.namtest.net.DwService { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class cn.even8.namtest.net.OpenReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:20
+-keep class cn.even8.namtest.net.OpenService { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class cn.even8.namtest.ui.DSWV { <init>(...); }
+
+# view AndroidManifest.xml #generated:6
+-keep class com.ionicframework.nametest354106.nametest { <init>(...); }
+

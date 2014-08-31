@@ -1,0 +1,15 @@
+<ion-view title="姓名测试">
+  <ion-content class="has-header padding">
+      <div class="list">
+          <label class="item item-input">
+              <span class="input-label">姓：</span>
+              <input type="text"  ng-model="test.pname">
+          </label>
+          <label class="item item-input">
+              <span class="input-label">名：</span>
+              <input type="text"  ng-model="test.cname">
+          </label>
+      </div>
+      <a class="button icon-right ion-chevron-right button-calm" href="#/tab/scores/{{test.pname}}/{{test.cname}}">测试打分</a>
+  </ion-content>
+</ion-view>
